@@ -1,0 +1,21 @@
+.navbar-brand{
+  color: #ffffff;
+}
+
+.nav-color{
+background-color: #000;
+
+}
+
+.nav-color .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #F57000;
+}
+
+.navbar {
+    border-radius: none !important;
+}

@@ -1,0 +1,12 @@
+.search-query{
+    height: 30px;
+    width: 100%;
+    padding: 10px;
+}
+
+.mybt{
+	background: #2a6752;
+	color: #FFFFFF;
+	padding: 5px 12px !important;
+	outline: none
+}
